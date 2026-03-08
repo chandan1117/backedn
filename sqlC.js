@@ -62,7 +62,7 @@ app.get("/users", async (req, res) => {
 
 // Test Route
 app.get("/", (req, res) => {
-    res.send("API Running");
+    res.send("API Running chclclclclc");
 });
 app.get("/users", (req, res) => {
     res.send("API Rsdlfljunning");
